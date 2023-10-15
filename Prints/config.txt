@@ -1,0 +1,1 @@
+; GctConfig { Be1k='True', ExtruderMix='50', FirstLayerMultiply='150', ReduceSupportDensity='', RemoveFirstLayerPerimeter='False', MixPrimePillar='False', SpecialMode='0' }
